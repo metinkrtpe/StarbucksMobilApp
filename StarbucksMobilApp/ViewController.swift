@@ -11,9 +11,17 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
-
+    @IBAction func kahvelerClicked(_ sender: Any) {
+    performSegue(withIdentifier: "toLaterVC", sender: nil)
+    }
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "toLaterVC"{
+            let destinationVC = segue.destination as? laterViewController
+        }
+    }
+    
 }
 

@@ -13,6 +13,29 @@
 		0E09296625C2F3B800CCE9C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E09296425C2F3B800CCE9C4 /* Main.storyboard */; };
 		0E09296825C2F3BB00CCE9C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E09296725C2F3BB00CCE9C4 /* Assets.xcassets */; };
 		0E09296B25C2F3BB00CCE9C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E09296925C2F3BB00CCE9C4 /* LaunchScreen.storyboard */; };
+		0E09297C25C2F44500CCE9C4 /* kahve1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297325C2F44400CCE9C4 /* kahve1.png */; };
+		0E09297D25C2F44500CCE9C4 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297425C2F44400CCE9C4 /* logo.png */; };
+		0E09297E25C2F44500CCE9C4 /* kahve6.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297525C2F44400CCE9C4 /* kahve6.png */; };
+		0E09297F25C2F44500CCE9C4 /* kahve7.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297625C2F44400CCE9C4 /* kahve7.png */; };
+		0E09298025C2F44500CCE9C4 /* kahve3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297725C2F44500CCE9C4 /* kahve3.png */; };
+		0E09298125C2F44500CCE9C4 /* kahve4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297825C2F44500CCE9C4 /* kahve4.png */; };
+		0E09298225C2F44500CCE9C4 /* kahve2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297925C2F44500CCE9C4 /* kahve2.png */; };
+		0E09298325C2F44500CCE9C4 /* kahve5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297A25C2F44500CCE9C4 /* kahve5.png */; };
+		0E09298425C2F44500CCE9C4 /* kahve8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09297B25C2F44500CCE9C4 /* kahve8.png */; };
+		0E09298825C2F45600CCE9C4 /* arkaplan2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E09298625C2F45600CCE9C4 /* arkaplan2.png */; };
+		0E09298925C2F45600CCE9C4 /* arkaplan1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E09298725C2F45600CCE9C4 /* arkaplan1.jpg */; };
+		0E09298C25C2F95A00CCE9C4 /* toSecondController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E09298B25C2F95900CCE9C4 /* toSecondController.swift */; };
+		0E09298F25C2FA7D00CCE9C4 /* toCoffeeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E09298E25C2FA7D00CCE9C4 /* toCoffeeController.swift */; };
+		0E09299225C2FE0700CCE9C4 /* Coffee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E09299125C2FE0700CCE9C4 /* Coffee.swift */; };
+		0E8C6C2325C36271009D01EE /* tasarım8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C6C1125C3626F009D01EE /* tasarım8.png */; };
+		0E8C6C2725C36271009D01EE /* tasarım14.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C6C1525C3626F009D01EE /* tasarım14.png */; };
+		0E8C6C2825C36271009D01EE /* tasarım17.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C6C1625C3626F009D01EE /* tasarım17.png */; };
+		0E8C6C2C25C36271009D01EE /* tasarım15.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C6C1A25C36270009D01EE /* tasarım15.png */; };
+		0E8C6C2E25C36271009D01EE /* tasarım13.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C6C1C25C36270009D01EE /* tasarım13.png */; };
+		0E8C6C2F25C36271009D01EE /* tasarım16.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E8C6C1D25C36270009D01EE /* tasarım16.png */; };
+		0EA3555E25C424ED00719DC3 /* laterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA3555D25C424ED00719DC3 /* laterViewController.swift */; };
+		0EA3556425C4260A00719DC3 /* arkaplankahve.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0EA3556325C4260A00719DC3 /* arkaplankahve.jpg */; };
+		0EA3556825C4266100719DC3 /* logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EA3556725C4266100719DC3 /* logo2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +47,29 @@
 		0E09296725C2F3BB00CCE9C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E09296A25C2F3BB00CCE9C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E09296C25C2F3BB00CCE9C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E09297325C2F44400CCE9C4 /* kahve1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve1.png; sourceTree = "<group>"; };
+		0E09297425C2F44400CCE9C4 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		0E09297525C2F44400CCE9C4 /* kahve6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve6.png; sourceTree = "<group>"; };
+		0E09297625C2F44400CCE9C4 /* kahve7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve7.png; sourceTree = "<group>"; };
+		0E09297725C2F44500CCE9C4 /* kahve3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve3.png; sourceTree = "<group>"; };
+		0E09297825C2F44500CCE9C4 /* kahve4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve4.png; sourceTree = "<group>"; };
+		0E09297925C2F44500CCE9C4 /* kahve2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve2.png; sourceTree = "<group>"; };
+		0E09297A25C2F44500CCE9C4 /* kahve5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve5.png; sourceTree = "<group>"; };
+		0E09297B25C2F44500CCE9C4 /* kahve8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kahve8.png; sourceTree = "<group>"; };
+		0E09298625C2F45600CCE9C4 /* arkaplan2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arkaplan2.png; sourceTree = "<group>"; };
+		0E09298725C2F45600CCE9C4 /* arkaplan1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arkaplan1.jpg; sourceTree = "<group>"; };
+		0E09298B25C2F95900CCE9C4 /* toSecondController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toSecondController.swift; sourceTree = "<group>"; };
+		0E09298E25C2FA7D00CCE9C4 /* toCoffeeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toCoffeeController.swift; sourceTree = "<group>"; };
+		0E09299125C2FE0700CCE9C4 /* Coffee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coffee.swift; sourceTree = "<group>"; };
+		0E8C6C1125C3626F009D01EE /* tasarım8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tasarım8.png"; sourceTree = "<group>"; };
+		0E8C6C1525C3626F009D01EE /* tasarım14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tasarım14.png"; sourceTree = "<group>"; };
+		0E8C6C1625C3626F009D01EE /* tasarım17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tasarım17.png"; sourceTree = "<group>"; };
+		0E8C6C1A25C36270009D01EE /* tasarım15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tasarım15.png"; sourceTree = "<group>"; };
+		0E8C6C1C25C36270009D01EE /* tasarım13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tasarım13.png"; sourceTree = "<group>"; };
+		0E8C6C1D25C36270009D01EE /* tasarım16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tasarım16.png"; sourceTree = "<group>"; };
+		0EA3555D25C424ED00719DC3 /* laterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laterViewController.swift; sourceTree = "<group>"; };
+		0EA3556325C4260A00719DC3 /* arkaplankahve.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arkaplankahve.jpg; sourceTree = "<group>"; };
+		0EA3556725C4266100719DC3 /* logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +105,33 @@
 				0E09295E25C2F3B800CCE9C4 /* AppDelegate.swift */,
 				0E09296025C2F3B800CCE9C4 /* SceneDelegate.swift */,
 				0E09296225C2F3B800CCE9C4 /* ViewController.swift */,
+				0EA3555D25C424ED00719DC3 /* laterViewController.swift */,
+				0E09298B25C2F95900CCE9C4 /* toSecondController.swift */,
+				0E09298E25C2FA7D00CCE9C4 /* toCoffeeController.swift */,
 				0E09296425C2F3B800CCE9C4 /* Main.storyboard */,
 				0E09296725C2F3BB00CCE9C4 /* Assets.xcassets */,
+				0E09297325C2F44400CCE9C4 /* kahve1.png */,
+				0E09297925C2F44500CCE9C4 /* kahve2.png */,
+				0E09297725C2F44500CCE9C4 /* kahve3.png */,
+				0E09297825C2F44500CCE9C4 /* kahve4.png */,
+				0E09297A25C2F44500CCE9C4 /* kahve5.png */,
+				0E09297525C2F44400CCE9C4 /* kahve6.png */,
+				0E09297625C2F44400CCE9C4 /* kahve7.png */,
+				0E09297B25C2F44500CCE9C4 /* kahve8.png */,
+				0E09298725C2F45600CCE9C4 /* arkaplan1.jpg */,
+				0E09298625C2F45600CCE9C4 /* arkaplan2.png */,
+				0E09297425C2F44400CCE9C4 /* logo.png */,
+				0EA3556725C4266100719DC3 /* logo2.png */,
+				0EA3556325C4260A00719DC3 /* arkaplankahve.jpg */,
+				0E8C6C1125C3626F009D01EE /* tasarım8.png */,
+				0E8C6C1C25C36270009D01EE /* tasarım13.png */,
+				0E8C6C1525C3626F009D01EE /* tasarım14.png */,
+				0E8C6C1A25C36270009D01EE /* tasarım15.png */,
+				0E8C6C1D25C36270009D01EE /* tasarım16.png */,
+				0E8C6C1625C3626F009D01EE /* tasarım17.png */,
 				0E09296925C2F3BB00CCE9C4 /* LaunchScreen.storyboard */,
 				0E09296C25C2F3BB00CCE9C4 /* Info.plist */,
+				0E09299125C2FE0700CCE9C4 /* Coffee.swift */,
 			);
 			path = StarbucksMobilApp;
 			sourceTree = "<group>";
@@ -124,9 +193,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E8C6C2725C36271009D01EE /* tasarım14.png in Resources */,
 				0E09296B25C2F3BB00CCE9C4 /* LaunchScreen.storyboard in Resources */,
+				0E8C6C2325C36271009D01EE /* tasarım8.png in Resources */,
+				0E09298325C2F44500CCE9C4 /* kahve5.png in Resources */,
+				0E09297D25C2F44500CCE9C4 /* logo.png in Resources */,
+				0E09298225C2F44500CCE9C4 /* kahve2.png in Resources */,
+				0E09297F25C2F44500CCE9C4 /* kahve7.png in Resources */,
+				0E8C6C2E25C36271009D01EE /* tasarım13.png in Resources */,
+				0E09298125C2F44500CCE9C4 /* kahve4.png in Resources */,
+				0E09297C25C2F44500CCE9C4 /* kahve1.png in Resources */,
+				0E09298825C2F45600CCE9C4 /* arkaplan2.png in Resources */,
 				0E09296825C2F3BB00CCE9C4 /* Assets.xcassets in Resources */,
+				0EA3556425C4260A00719DC3 /* arkaplankahve.jpg in Resources */,
+				0E09298425C2F44500CCE9C4 /* kahve8.png in Resources */,
+				0E09297E25C2F44500CCE9C4 /* kahve6.png in Resources */,
+				0E8C6C2C25C36271009D01EE /* tasarım15.png in Resources */,
+				0E8C6C2F25C36271009D01EE /* tasarım16.png in Resources */,
+				0E09298925C2F45600CCE9C4 /* arkaplan1.jpg in Resources */,
 				0E09296625C2F3B800CCE9C4 /* Main.storyboard in Resources */,
+				0EA3556825C4266100719DC3 /* logo2.png in Resources */,
+				0E09298025C2F44500CCE9C4 /* kahve3.png in Resources */,
+				0E8C6C2825C36271009D01EE /* tasarım17.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,9 +225,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E09298F25C2FA7D00CCE9C4 /* toCoffeeController.swift in Sources */,
+				0EA3555E25C424ED00719DC3 /* laterViewController.swift in Sources */,
 				0E09296325C2F3B800CCE9C4 /* ViewController.swift in Sources */,
 				0E09295F25C2F3B800CCE9C4 /* AppDelegate.swift in Sources */,
+				0E09298C25C2F95A00CCE9C4 /* toSecondController.swift in Sources */,
 				0E09296125C2F3B800CCE9C4 /* SceneDelegate.swift in Sources */,
+				0E09299225C2FE0700CCE9C4 /* Coffee.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
